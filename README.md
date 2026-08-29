@@ -18,7 +18,7 @@ microcontroller was programmed using MikroC.
 ---
 ## 📷 Project Preview
 
-![Traffic Light Simulation](traffic_light.Png)
+![Traffic](traffic_light.png)
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
