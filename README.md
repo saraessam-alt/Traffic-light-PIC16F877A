@@ -19,7 +19,7 @@ microcontroller was programmed using MikroC.
 ## 📷 Project Preview
 
 ![Traffic Light Simulation]
-(traffic light.BMP)
+(traffic light.Png)
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
@@ -30,7 +30,7 @@ The main objectives of this project are:
 - Use the 7447 BCD-to-7-segment decoder to control the displays.
 - Practice interfacing the PIC16F877A with LEDs, switches, transistors,
   and 7-segment displays.
-
+  (Flowchart.png)
 ---
 
 ## 🛠️ Components Used
