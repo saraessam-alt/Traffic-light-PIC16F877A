@@ -16,7 +16,9 @@ The project was designed and simulated using Proteus, and the PIC
 microcontroller was programmed using MikroC.
 
 ---
+## 📷 Project Preview
 
+![Traffic Light Simulation](traffic light.BMP)
 ## 🎯 Project Objectives
 
 The main objectives of this project are:
